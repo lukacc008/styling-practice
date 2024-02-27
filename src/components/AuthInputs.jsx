@@ -12,7 +12,7 @@ export default function AuthInputs() {
       setEnteredPassword(value);
     }
   }
-
+ 
   function handleLogin() {
     setSubmitted(true);
   }
